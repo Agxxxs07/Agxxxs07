@@ -134,7 +134,7 @@ Intelligent Academic Performance Monitoring System.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Agxxxs07&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Agxxxs07&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
