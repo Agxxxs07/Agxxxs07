@@ -175,11 +175,11 @@ Intelligent Academic Performance Monitoring System.
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com](https://www.linkedin.com/in/edward-cama%C3%B1o-202170277/)">
+<a href="https://www.linkedin.com/in/edward-cama%C3%B1o-202170277/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:edwardagustin0620@gmail.com">
+<a href="gmail:edwardagustin0620@gmail.com">
 <img src="https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
