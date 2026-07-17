@@ -69,9 +69,8 @@ Goal:
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Agxxxs07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agxxxs07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 <!-- Streak -->
 <img height="180em"
