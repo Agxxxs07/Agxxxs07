@@ -72,9 +72,6 @@ Goal:
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agxxxs07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<!-- Streak -->
-<img height="180em"
-src="https://streak-stats.demolab.com?user=Agxxxs07&theme=tokyonight&hide_border=true"/>
 
 <!-- Top Languages -->
 <img height="180em"
@@ -128,15 +125,6 @@ Natural Language Processing model for detecting fake news.
 
 Intelligent Academic Performance Monitoring System.
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Agxxxs07&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
 
 ---
 
