@@ -14,7 +14,7 @@
 
 # 🌌 About Me
 
-<img align="right" width="320" src="https://gifer.com/es/IrF"/>
+<img align="right" width="320" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
 ```yaml
 Name: Edward Camaño
