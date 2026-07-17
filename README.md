@@ -75,11 +75,11 @@ src="https://github-readme-stats.vercel.app/api?username=Agxxxs07&show_icons=tru
 
 <!-- Streak -->
 <img height="180em"
-src="https://streak-stats.demolab.com?user=Agxxxs07&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agxxxs07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <!-- Top Languages -->
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agxxxs07&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agxxxs07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
